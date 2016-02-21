@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=hasLinkChange\ trace\ seed
+comment0.target=NetworkSimulator(boolean,\ int,\ long)
+comment1.params=
+comment1.target=void\ runSimulator()
+comment2.params=p
+comment2.target=void\ toLayer2(Packet)
+comment2.text=\ Warning\!\ \ This\ will\ allow\ an\ entity\ to\ send\ packets\ that\ they\n\ \ \ \ \ \ \ \ \ \ couldn't\ possibly\ send\ (e.g.\ Entity\ 1\ could\ send\ a\ packet\ from\n0\ to\ 3).\ \ This\ should\ be\ fixed\ later...\ ***
+numComments=3

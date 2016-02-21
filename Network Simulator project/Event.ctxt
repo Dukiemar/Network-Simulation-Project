@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=t\ ty\ ent
+comment0.target=Event(double,\ int,\ int)
+comment1.params=t
+comment1.target=boolean\ setTime(double)
+comment2.params=n
+comment2.target=boolean\ setType(int)
+comment3.params=n
+comment3.target=boolean\ setEntity(int)
+comment4.params=
+comment4.target=double\ getTime()
+comment5.params=
+comment5.target=int\ getType()
+comment6.params=
+comment6.target=int\ getEntity()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

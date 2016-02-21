@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=boolean\ add(Event)
+comment1.params=
+comment1.target=Event\ removeNext()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=entityFrom\ entityTo
+comment3.target=double\ getLastPacketTime(int,\ int)
+numComments=4
